@@ -1,6 +1,0 @@
-{
-  "name": "Student Performance Analytics System",
-  "description": "Python, NumPy, and Pandas-powered analytics system for student performance evaluation, grade computation, subject analysis, and reporting.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
